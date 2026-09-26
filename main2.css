@@ -1,0 +1,20 @@
+.hr{
+    background:linear-gradient(#444,#e40f0f);
+    width: 40%;
+    height: 3px;
+    margin: auto;
+    border-radius: 20px;
+
+}
+.nav .nav-item{
+    background:linear-gradient(#444,#222);
+    margin: auto;
+    
+    
+}
+.tab-content img {
+     margin: 10px 3px;
+    border-radius: 10px;
+    border: 2px solid red;
+
+}

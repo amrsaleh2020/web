@@ -1,0 +1,17 @@
+.hr{
+    width: 50%;
+    height: 3px;
+    margin: auto;
+    background:linear-gradient(red,black,yellow);
+}
+#gallery .nav-pills{
+    background:linear-gradient(to left,#444,#222);
+    margin:20px auto ;
+    width: 50%;
+    border-radius: 20px;
+}
+.tab-content img{
+    margin: 10px 0px;
+    border-radius: 10px;
+    border: 2px solid yellow;
+}
